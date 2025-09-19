@@ -4,7 +4,9 @@ This project analyzes pizza sales data using SQL. It includes queries to calcula
 ## Project Overview
 
 **Project Title**: Pizza Sales Analysis using SQL
+
 **Level**: Intermediate  
+
 **Database**: `pizza_database`
 
 **The goal is to answer business-driven questions such as:**
